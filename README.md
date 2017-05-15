@@ -36,4 +36,5 @@ cursors position.
  
 1. open the `Security & Privacy` settings under `System Preference`
 2. in tab `Privacy` and setting `Accessibility` allow the `Automator` application to control your computer<br>
+therefore open the lock in the lower-left corner<br>
 ![keyboard-1](META-INF/privacy.jpg)
