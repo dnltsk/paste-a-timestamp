@@ -4,7 +4,7 @@
 ## Usage
 
 Writing timestamps is annoying - especially when you often need to type the timestamp of _now_. 
-Instead of typing 2.0.1.7.T.0.5... After installing the Script and configuring the shortcut 
+After installing the Script and configuring the shortcut 
 you can use `^⌘U` (`Shift`+`Command`+`U`) and the current timestamp gets pasted into the 
 cursors position.
 
