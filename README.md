@@ -8,6 +8,9 @@ Instead of typing 2.0.1.7.T.0.5... After installing the Script and configuring t
 you can use `^⌘U` (`Shift`+`Command`+`U`) and the current timestamp gets pasted into the 
 cursors position.
 
+![usage](META-INF/usage.gif)
+
+
 ## Requirements
 
 1. OSX (tested with 10.12 - Sierra) 
