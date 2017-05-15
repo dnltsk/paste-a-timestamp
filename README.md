@@ -1,5 +1,5 @@
 # paste-a-timestamp
-^⌘U - because life's too short to type ISO-8601 timestamps manually
+`^⌘U` - because life's too short to type ISO-8601 timestamps manually
 
 ## Usage
 
