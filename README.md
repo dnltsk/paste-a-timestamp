@@ -30,10 +30,10 @@ cursors position.
 1. open the `Keybord` settings under `System preference`
 2. in tab `Shortcuts` search for the `paste-a-timestamp` service
 3. double-click on the `none` text to record the shortcut you want to use - e.g. `^⌘U` (`Shift`+`Command`+`U`)<br>
-![keyboard-1](META-INF/keyboard-1.jpg)
+![keyboard-1](META-INF/keyboard.jpg)
 
 ### Part 3 - allow interaction
  
 1. open the `Security & Privacy` settings under `System preference`
 2. in tab `Privacy` and setting `Accessibility` allow the `Automator` application to control your computer<br>
-![keyboard-1](META-INF/keyboard-1.jpg)
+![keyboard-1](META-INF/privacy.jpg)
