@@ -7,7 +7,7 @@ Writing timestamps is annoying - especially when you often need to type the time
 After installing the script and configuring the shortcut you can use 
 `^⌘u` (`Control`+`Command`+`U`) to pasted the current timestamp into the cursor's position.
 
-![usage](meta-inf/usage.gif)
+![usage](META-INF/usage.gif)
 
 
 ## requirements
